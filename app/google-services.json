@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "801845365254",
+    "firebase_url": "https://itickets-6ee08.firebaseio.com",
+    "project_id": "itickets-6ee08",
+    "storage_bucket": "itickets-6ee08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801845365254:android:4a7c4c601adbd74b",
+        "android_client_info": {
+          "package_name": "hr.rma.sl.itickets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801845365254-fj27lg4lbab211mka47gs4gq06q5717f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hr.rma.sl.itickets",
+            "certificate_hash": "31eff5b70fb784a07e0a1b088918085e72b313c5"
+          }
+        },
+        {
+          "client_id": "801845365254-l465bhst5fjutkilr2o4ba2ftsuqc158.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "801845365254-l465bhst5fjutkilr2o4ba2ftsuqc158.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj0JBPtjCnb2skXjF1W-t3QKWJo_Fyw2s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801845365254-l465bhst5fjutkilr2o4ba2ftsuqc158.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
